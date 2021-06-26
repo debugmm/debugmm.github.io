@@ -26,4 +26,26 @@ titles:
 key: page-about
 ---
 
-本博客采用了TeXt Theme
+#### 本blog遵循如下协议
+
+[CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+
+### <font color="blue">以下域名出售</font>
+
+1. 一锤定音.com
+
+2. yicuidingyin.com
+
+3. yicuidingyin.cn
+
+4. yicuidingyin.com.cn
+
+5. 1chuidingyin.com
+
+6. 1chuidingyin.cn
+
+7. 1chuidingyin.com.cn
+
+>微信：treebug，email：abuglife@qq.com
+
+>本博客采用了TeXt Theme
