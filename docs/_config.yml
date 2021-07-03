@@ -33,9 +33,9 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 
 ## => Author and Social
 ##############################
-wujungao:
+jungao:
   type      : # "person" (default), "organization"
-  name      : wujungao
+  name      : jungao
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
