@@ -24,28 +24,35 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+modify_date: 2021-07-04
+author: jungao
+show_author_profile: true
 ---
-
-#### 本blog遵循如下协议
-
-[CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 ### <font color="blue">以下域名出售</font>
 
-1. 一锤定音.com
+1. [一锤定音.com](一锤定音.com)
 
-2. yicuidingyin.com
+2. [yicuidingyin.com](yicuidingyin.com)
 
-3. yicuidingyin.cn
+3. [yicuidingyin.cn](yicuidingyin.cn)
 
-4. yicuidingyin.com.cn
+4. [yicuidingyin.com.cn](yicuidingyin.com.cn)
 
-5. 1chuidingyin.com
+5. [1chuidingyin.com](1chuidingyin.com)
 
-6. 1chuidingyin.cn
+6. [1chuidingyin.cn](1chuidingyin.cn)
 
-7. 1chuidingyin.com.cn
+7. [1chuidingyin.com.cn](1chuidingyin.com.cn)
 
->微信：treebug，email：abuglife@qq.com
-
+>详情咨询：
+>>
+>>微信：treebug
+>>
+>>邮件：底部邮件按钮发送邮件
+>
 >本博客采用了TeXt Theme
+>
+>本站遵循如下协议：
+>
+>>[CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
